@@ -13,3 +13,7 @@ public int subtrair(int a, int b){
 public int potenciaDe2(int a){
   return a * a;
 }
+
+public int mutiplicar(int a, int b){
+        return a * b;
+}
