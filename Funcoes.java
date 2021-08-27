@@ -9,3 +9,7 @@ public double divir(double a, double b){
 public int subtrair(int a, int b){
   return a - b;
 }
+
+public int potenciaDe2(int a){
+  return a * a;
+}
